@@ -1,0 +1,1 @@
+"use strict";var shoppingCart=JSON.parse(localStorage.getItem("shoppingCart"))||[],$table=$("#table"),$sum=$("#sum");

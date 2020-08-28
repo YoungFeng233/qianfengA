@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body, html {
+    background: url(../resource/images/憨憨.jpg) no-repeat;
+    background-size: cover;
+    /* width: 100%; 
+       height: 100%; */
+  }
+
+  #content .text-center {
+    font-size: 30px;
+  }
+  
+  #content label {
+    font-weight: 600;
+  }
+  
+  

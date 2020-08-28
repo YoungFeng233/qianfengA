@@ -1,0 +1,1 @@
+"use strict";function createAjax(n){return new Promise(function(c,e){n.success=function(n){c(n)},n.error=function(n){e(n)},$.ajax(n)})}

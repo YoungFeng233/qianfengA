@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header {
+  background-color: black;
+  /* margin-bottom: 30px; */
+}
+
+.waterfall {
+  margin: 0 auto;
+  display: flex;
+  border: 1px solid #ccc;
+  list-style: none;
+}
+
+.waterfall li {
+  flex: 1;
+}
+
+.item {
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+.item img {
+  width: 100%;
+}
+
+.item .title {
+  font-size: 12px;
+  padding: 5px;
+}
+
+.item .author {
+  font-size: 15px;
+  padding: 5px;
+}
